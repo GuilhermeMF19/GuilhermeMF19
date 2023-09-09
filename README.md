@@ -28,4 +28,4 @@
 
 💬 Vamos nos conectar? Estou sempre aberto a novas amizades e colaborações. 👇
 
-[Meu WhatsApp](tel:+5548991375109) [Meu Instagram](https://www.instagram.com/guimoraesf/) [Meu LinkedIn](https://www.linkedin.com/in/guilhermemfloriano/)
+[Meu WhatsApp](tel:+55 48991375109) [Meu Instagram](https://www.instagram.com/guimoraesf/) [Meu LinkedIn](https://www.linkedin.com/in/guilhermemfloriano/)
