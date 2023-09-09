@@ -36,9 +36,6 @@
   <a target="_blank" href="https://instagram.com/guimoraesf">
     <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a target="_blank" target="_blank" href="mailto:guilherme_riba@hotmail.com">
-    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
-  </a>
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5548991375109&text=Ol%C3%A1%2C+gostaria+de+saber+informações+sobre+programação">
     <img src="https://img.shields.io/badge/-WhatsApp-26B03D?style=for-the-badge&logo=WhatsApp&logoColor=white">
   </a>
