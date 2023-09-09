@@ -5,6 +5,7 @@
 💼 Atualmente, sou estágiario na InterativWeb, onde trabalho com programação web, utilizando php(Yii framwork), jquery e fazendo algumas artes com Photoshop e Illustrator.
 
 📚 Estou sempre em busca de novas oportunidades de colaboração e aprendizado, então sinta-se à vontade para entrar em contato comigo para discutir projetos interessantes ou trocar ideias sobre desenvolvimento de software.
+
 🛠️ Tecnologias e Ferramentas que Já Utilizei:
 
 - 🌐 JavaScript e jQuery: Tenho experiência em desenvolvimento web front-end e utilizei JavaScript e jQuery para criar interações dinâmicas em várias aplicações.
