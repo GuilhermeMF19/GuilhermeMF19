@@ -30,16 +30,16 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guilhermemfloriano/">
+  <a target="_blank" href="https://www.linkedin.com/in/guilhermemfloriano/">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/guimoraesf">
+  <a target="_blank" href="https://instagram.com/guimoraesf">
     <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:guilherme_riba@hotmail.com">
+  <a target="_blank" target="_blank" href="mailto:guilherme_riba@hotmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5548991375109&text=Ol%C3%A1%2C+gostaria+de+saber+informações+sobre+programação">
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=5548991375109&text=Ol%C3%A1%2C+gostaria+de+saber+informações+sobre+programação">
     <img src="https://img.shields.io/badge/-WhatsApp-26B03D?style=for-the-badge&logo=WhatsApp&logoColor=white">
   </a>
 </p>
