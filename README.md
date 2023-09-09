@@ -28,8 +28,4 @@
 
 💬 Vamos nos conectar? Estou sempre aberto a novas amizades e colaborações. 👇
 
-[Meu WhatsApp](https://api.whatsapp.com/send?phone=5548991375109&text=Ol%C3%A1%2C+gostaria+de+saber+informações+sobre+programação) [Meu Instagram](https://www.instagram.com/guimoraesf/) [Meu LinkedIn](https://www.linkedin.com/in/guilhermemfloriano/)
-
-
-[![Botão Quadrado](https://placekitten.com/200/200)](https://www.seu_link.com)
-
+[![Botão Quadrado][Meu WhatsApp](https://api.whatsapp.com/send?phone=5548991375109&text=Ol%C3%A1%2C+gostaria+de+saber+informações+sobre+programação) [Meu Instagram](https://www.instagram.com/guimoraesf/) [Meu LinkedIn](https://www.linkedin.com/in/guilhermemfloriano/)
