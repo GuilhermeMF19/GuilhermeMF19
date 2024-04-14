@@ -1,25 +1,37 @@
-👋 Prazer, Guilherme 👨‍💻
+### Prazer, sou Guilherme! 👨‍💻
 
-🚀 Desenvolvedor apaixonado por tecnologia, estou em constante busca por conhecimento e adoro resolver desafios complexos através de código. Desde o começo tenho mergulhado de cabeça em projetos interessantes e aprendizado contínuo. 
+Sou um desenvolvedor apaixonado por tecnologia, tenho 23 anos e estou cursando Sistemas para Internet no Instituto Federal de Santa Catarina.
 
-📚 Estou sempre em busca de novas oportunidades de colaboração e aprendizado, então sinta-se à vontade para entrar em contato comigo para discutir projetos interessantes ou trocar ideias sobre desenvolvimento de software.
+#### Conhecimentos:
 
-🚀 Estou constantemente explorando novas tecnologias e aprimorando meu conhecimento para me manter atualizado no mundo em constante evolução do desenvolvimento de software.
+- Java
+- SpringBoot
+- Git
+- Github
+- MySQL
+- MongoDB
+- Linux
 
-💬 Se você quiser discutir alguma dessas tecnologias, trocar experiências ou colaborar em um projeto, não hesite em entrar em contato!
+#### Experiência:
 
+Possuo experiência como desenvolvedor de sistemas, priorizando código limpo e de fácil manutenção, utilizando os princípios SOLID e design patterns. Atuo principalmente como full-stack, com foco no backend. Tenho uma afinidade especial em resolver problemas através da lógica e estou sempre buscando maneiras de otimizar o desempenho e a eficiência dos sistemas que desenvolvo.
 
-💬 Vamos nos conectar? Estou sempre aberto a novas amizades e colaborações. 👇
+#### Interesses:
 
+Estou constantemente explorando novas tecnologias e aprimorando meu conhecimento para me manter atualizado no mundo em constante evolução do desenvolvimento de software. Tenho interesse em evoluir constantemente como profissional e pessoa, participando ativamente de cursos, workshops e eventos da área de tecnologia. Estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades e me manter atualizado com as tendências do mercado.
+
+#### Vamos nos conectar? 
+
+Estou sempre aberto a novas amizades e colaborações.
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/guilhermemfloriano/">
-    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a target="_blank" href="https://instagram.com/guimoraesf">
-    <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5548991375109&text=Ol%C3%A1%2C+gostaria+de+saber+informações+sobre+programação">
-    <img src="https://img.shields.io/badge/-WhatsApp-26B03D?style=for-the-badge&logo=WhatsApp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white">
   </a>
 </p>
