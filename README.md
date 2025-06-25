@@ -1,6 +1,6 @@
 ### Prazer, sou Guilherme! 👨‍💻
 
-Sou um desenvolvedor apaixonado por tecnologia, tenho 23 anos e estou cursando Sistemas para Internet no Instituto Federal de Santa Catarina.
+Sou um desenvolvedor apaixonado por tecnologia, tenho 23 anos, formado em Sistemas para Internet no Instituto Federal de Santa Catarina.
 
 #### Conhecimentos:
 
