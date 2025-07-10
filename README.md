@@ -4,8 +4,9 @@ Sou um desenvolvedor apaixonado por tecnologia, tenho 23 anos, formado em Sistem
 
 #### Conhecimentos:
 
-- Java
+- PHP
 - SpringBoot
+- NestJS
 - Git
 - Github
 - MySQL
@@ -18,7 +19,7 @@ Possuo experiência como desenvolvedor de sistemas, priorizando código limpo e 
 
 #### Interesses:
 
-Estou constantemente explorando novas tecnologias e aprimorando meu conhecimento para me manter atualizado no mundo em constante evolução do desenvolvimento de software. Tenho interesse em evoluir constantemente como profissional e pessoa, participando ativamente de cursos, workshops e eventos da área de tecnologia. Estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades e me manter atualizado com as tendências do mercado.
+Estou constantemente explorando novas tecnologias e aprimorando meu conhecimento para me manter atualizado no mundo em constante evolução do desenvolvimento de software. Tenho interesse em evoluir constantemente como profissional e pessoa, participando ativamente de cursos e eventos da área de tecnologia. Estou sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades e me manter atualizado com as tendências do mercado.
 
 #### Vamos nos conectar? 
 
